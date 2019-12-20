@@ -17,7 +17,7 @@ Question.prototype.outputAnswers = function()
 //////Object prototype Answer Checking//////////////////////////////////
 Question.prototype.checkReply = function ()
 {
-    let reply = parseInt(prompt('What is your answer? 0 or 1 or 2?'));
+    let reply = parseInt(prompt('What is your answer? 0/1/2? (Open console to see the question F12)'));
     if (reply === questions[random].correctAnswer){
         console.log('Great! That\'s a good answer!');
     }
