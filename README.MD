@@ -17,7 +17,7 @@ My project is a console Quiz game. Reason why I did it > To develop my JS skills
 -Immediately Invoked Function Expressions (IIFE)
 
 ## Screenshots
-![Example screenshot](screenshot.png)
+![Example screenshot](screenshot.jpg)
 
 ## Technologies
 * JavaScript 
