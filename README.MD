@@ -9,7 +9,8 @@
 * [Status](#status)
 
 ## General info
-My project is a console Quiz game. Reason why I did it > To develop my JS skills:
+My project is a console Quiz game. 
+### Reason why I did it > To develop my JS skills:
 * Objects 
 * Function Constructors
 * Prototype Chain
