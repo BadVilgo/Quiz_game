@@ -24,7 +24,7 @@ My project is a console Quiz game.
 * JavaScript 
 
 ## Demo
-https://github.com/BadVilgo/Quiz_game/
+https://badvilgo.github.io/Quiz_game/
 
 
 ## Status
