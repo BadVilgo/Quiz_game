@@ -10,11 +10,11 @@
 
 ## General info
 My project is a console Quiz game. Reason why I did it > To develop my JS skills:
--Objects 
--Function Constructors
--Prototype Chain
--First Class Functions
--Immediately Invoked Function Expressions (IIFE)
+* Objects 
+* Function Constructors
+* Prototype Chain
+* First Class Functions
+* Immediately Invoked Function Expressions (IIFE)
 
 ## Screenshots
 ![Example screenshot](screenshot.jpg)
